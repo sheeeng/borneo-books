@@ -1,0 +1,14 @@
+hash: 03a53ec9c36b7408e1f9161fe46949487a169dce53dbd3434d493b60668d185a
+updated: 2019-11-06T13:54:33.690432+01:00
+imports:
+- name: github.com/gorilla/mux
+  version: c5c6c98bc25355028a63748a498942a6398ccd22
+- name: github.com/jinzhu/gorm
+  version: b7156195f7f3415f97c20abbd6aff894b847fee8
+  subpackages:
+  - dialects/sqlite
+- name: github.com/jinzhu/inflection
+  version: f5c5f50e6090ae76a29240b61ae2a90dd810112e
+- name: github.com/mattn/go-sqlite3
+  version: 67c1376b46fb54cb953532f136c9b8accefca46b
+testImports: []
